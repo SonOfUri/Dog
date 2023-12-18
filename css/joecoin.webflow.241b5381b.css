@@ -2381,6 +2381,7 @@ body {
 .description {
   text-align: center;
   text-indent: 0;
+  line-height: 50px;
   white-space: normal;
 }
 
@@ -2391,6 +2392,7 @@ body {
 .description.subtext.blue {
   color: #1a2df3;
   -webkit-text-stroke-color: #1a2df3;
+  font-size: 50px;
 }
 
 .description.subtext.red {
