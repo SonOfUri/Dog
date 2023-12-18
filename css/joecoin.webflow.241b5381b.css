@@ -2395,6 +2395,17 @@ body {
   font-size: 50px;
 }
 
+@media screen and (max-width: 1000px) {
+.description.subtext.blue {
+  font-size: 20px;
+}
+
+.description {
+  line-height: 20px;
+
+}
+}
+
 .description.subtext.red {
   color: red;
 }
