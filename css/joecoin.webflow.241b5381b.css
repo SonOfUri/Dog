@@ -2365,6 +2365,12 @@ body {
   display: flex;
 }
 
+@media screen and (max-width: 800px) {
+  .section-4{
+    flex-wrap: wrap;
+  }
+}
+
 .description {
   text-align: center;
   text-indent: 0;
